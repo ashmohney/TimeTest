@@ -1,5 +1,32 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Notes on progress:
+* components created: Navbar, CurrentMeds, Footer, and AddMed (possibly a modal)
+* Need to set up server side
+* Need to pick database manager (NoSql vs. SQL)
+* Need to create git repo for project. 
+
+## Purpose
+
+For Users to track medications that they are taking regularly. 
+
+### Needs
+
+A view to see current meds.
+Options to add and delete meds. 
+Ability to set reminders for current meds.
+
+NTH: Ability to look up medications and get a brief description. 
+
+### Technologies
+
+React front-end
+Firebase authentication and hosting
+Node/Express server
+CRUD option: Firebase? MongoDB? MySQL? (To Be Determined).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
